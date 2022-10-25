@@ -1,2 +1,2 @@
-# Desafio-Reposit-rio
+# Desafio-Repositorio
 Programa de aulas e conteúdo
