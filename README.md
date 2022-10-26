@@ -14,7 +14,7 @@
 
 - O que é uma API? 
 
-   Acrônomo de Application Programming Interface (Interface de programas de aplicativos) um intermediário de software que permite que dois aplicativos conversem entre si.
+   Application Programming Interface (Interface de programas de aplicativos) um intermediário de software que permite que dois aplicativos conversem entre si.
 
 - Técnicas de lógica de programação
 
