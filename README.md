@@ -50,8 +50,6 @@
 
 Organização de metas por semanas de aulas
 
-## Semana        
-
 | SEMANA | DIAS  | NOME DO CURSO                                | CONCLUSÃO |
 | ------ | ----- | -------------------------------------------- | :-------- |
 | 1      | 16-22 | Prepare-se Para a Jornada (Onboarding)       | SIM       |
